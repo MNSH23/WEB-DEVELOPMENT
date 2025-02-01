@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+    color: green;
+}
+body {
+    background-color: lightblue;
+}
+.h1 {
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+img {
+    border: 5px solid #555;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 350px; /* Set the desired width */
+    height: 350px; /* Set the desired height */
+}
